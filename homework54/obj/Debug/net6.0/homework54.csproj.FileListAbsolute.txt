@@ -1,0 +1,15 @@
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\bin\Debug\net6.0\homework54.exe
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\bin\Debug\net6.0\homework54.deps.json
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\bin\Debug\net6.0\homework54.runtimeconfig.json
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\bin\Debug\net6.0\homework54.dll
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\bin\Debug\net6.0\homework54.pdb
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.csproj.AssemblyReference.cache
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.AssemblyInfoInputs.cache
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.AssemblyInfo.cs
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.csproj.CoreCompileInputs.cache
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.dll
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\refint\homework54.dll
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.pdb
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\homework54.genruntimeconfig.cache
+C:\Users\Игры\Desktop\не смотреть\homework4\homework54\obj\Debug\net6.0\ref\homework54.dll
